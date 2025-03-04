@@ -371,7 +371,23 @@
                         "tabs": [
                             {
                                 "tab_header": "Home",
-                                "tab_content": "content1"
+                                "tab_content":  {"inputs":[
+                                        {
+                                          "input_type": "text",
+                                          "field_name": "first_name"
+                                        },
+                                        {
+                                          "field_name": "last_name",
+                                          "input_type": "text"
+                                        },
+                                        {
+                                          "input_type": "table",
+                                          "table_params": {
+                                            "table_name": "users",
+                                            "parent_key_name": "dep_id"
+                                          }
+                                        }
+                                      ]}
                             },
                             {
                                 "tab_header": "Profile",
