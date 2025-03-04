@@ -1,1 +1,424 @@
-
+{
+    "navbar": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "companies"
+        }
+    ],
+    "leftnav": [
+        {
+            "DT_RowId": "row_1",
+            "tenant_id": 1,
+            "menu_name": "\u10e1\u10d0\u10ec\u10d0\u10e0\u10db\u10dd1",
+            "action": "?page=company",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_2",
+            "tenant_id": 1,
+            "menu_name": "\u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8",
+            "action": "?page=tbilisi",
+            "menu_type": "parent",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_3",
+            "tenant_id": 1,
+            "menu_name": "\u10db\u10d4\u10dd\u10e0\u10d4 \u10e1\u10d0\u10ec\u10d0\u10e0\u10db\u10dd",
+            "action": "?page=company",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_4",
+            "tenant_id": 1,
+            "menu_name": "\u10ea\u10dc\u10dd\u10d1\u10d0\u10e0\u10d8",
+            "action": "?page=glossary",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_5",
+            "tenant_id": 1,
+            "menu_name": "admin",
+            "action": "?page=admin",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_6",
+            "tenant_id": 1,
+            "menu_name": "\u10d9\u10dd\u10dc\u10e4\u10d8\u10d2\u10e3\u10e0\u10d0\u10ea\u10d8\u10d0",
+            "action": "?page=app",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        }
+    ],
+    "messages": [
+        {
+            "DT_RowId": "row_1",
+            "tenant_id": 1,
+            "menu_name": "\u10e1\u10d0\u10ec\u10d0\u10e0\u10db\u10dd1",
+            "action": "?page=company",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_2",
+            "tenant_id": 1,
+            "menu_name": "\u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8",
+            "action": "?page=tbilisi",
+            "menu_type": "parent",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_3",
+            "tenant_id": 1,
+            "menu_name": "\u10db\u10d4\u10dd\u10e0\u10d4 \u10e1\u10d0\u10ec\u10d0\u10e0\u10db\u10dd",
+            "action": "?page=company",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_4",
+            "tenant_id": 1,
+            "menu_name": "\u10ea\u10dc\u10dd\u10d1\u10d0\u10e0\u10d8",
+            "action": "?page=glossary",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_5",
+            "tenant_id": 1,
+            "menu_name": "admin",
+            "action": "?page=admin",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        },
+        {
+            "DT_RowId": "row_6",
+            "tenant_id": 1,
+            "menu_name": "\u10d9\u10dd\u10dc\u10e4\u10d8\u10d2\u10e3\u10e0\u10d0\u10ea\u10d8\u10d0",
+            "action": "?page=app",
+            "menu_type": "item",
+            "zoho_sub": "658030238.1283782021"
+        }
+    ],
+    "notifications": [],
+    "notifications_count": "12",
+    "userdata": {
+        "fullname": null,
+        "position": "Accountant",
+        "membersince": "2025-01-01",
+        "picture": null
+    },
+    "cards": [
+        {
+            "DT_RowId": "row_2",
+            "content": {
+                "id": 2,
+                "tenant_id": 1,
+                "card_type": "card",
+                "card_source": "users",
+                "page_id": 3,
+                "edit_form_id": null
+            }
+        },
+        {
+            "DT_RowId": "row_1",
+            "content": {
+                "id": 1,
+                "tenant_id": 1,
+                "card_type": "card",
+                "card_source": "content",
+                "page_id": 3,
+                "edit_form_id": null
+            }
+        },
+        {
+            "DT_RowId": "row_3",
+            "content": {
+                "id": 3,
+                "tenant_id": 1,
+                "card_type": "card",
+                "card_source": "menu",
+                "page_id": 3,
+                "edit_form_id": null
+            }
+        },
+        {
+            "DT_RowId": "row_6",
+            "content": {
+                "id": 6,
+                "tenant_id": 1,
+                "card_type": "card",
+                "card_source": "pages",
+                "page_id": 3,
+                "edit_form_id": null
+            }
+        },
+        {
+            "DT_RowId": "row_7",
+            "content": {
+                "id": 7,
+                "tenant_id": 1,
+                "card_type": "card",
+                "card_source": "forms",
+                "page_id": 3,
+                "edit_form_id": 2
+            }
+        },
+        {
+            "DT_RowId": "row_8",
+            "content": {
+                "id": 8,
+                "tenant_id": 1,
+                "card_type": "card",
+                "card_source": "form_content",
+                "page_id": 3,
+                "edit_form_id": 2
+            }
+        }
+    ],
+    "content_structure": {
+        "users": {
+            "db_fields": [
+                {
+                    "data": "id",
+                    "datatype": "int"
+                },
+                {
+                    "data": "is_admin",
+                    "datatype": "int"
+                },
+                {
+                    "data": "zoho_sub",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "username",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "user_id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "content": {
+            "db_fields": [
+                {
+                    "data": "edit_form_id",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "page_id",
+                    "datatype": "int"
+                },
+                {
+                    "data": "card_source",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "card_type",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "tenant_id",
+                    "datatype": "int"
+                },
+                {
+                    "data": "id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "menu": {
+            "db_fields": [
+                {
+                    "data": "menu_type",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "action",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "menu_name",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "tenant_id",
+                    "datatype": "int"
+                },
+                {
+                    "data": "id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "app_tables": {
+            "db_fields": [
+                {
+                    "data": "table_params",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "table_name",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "app_fields": {
+            "db_fields": [
+                {
+                    "data": "field_type",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "field_name",
+                    "datatype": "v"
+                },
+                {
+                    "data": "table_id",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "pages": {
+            "db_fields": [
+                {
+                    "data": "page_name",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "forms": {
+            "db_fields": [
+                {
+                    "data": "id",
+                    "datatype": "int"
+                },
+                {
+                    "data": "description",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "form_code",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "form_name",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "form_id",
+                    "datatype": "int"
+                }
+            ]
+        },
+        "form_content": {
+            "db_fields": [
+                {
+                    "data": "params",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "element_type",
+                    "datatype": "varchar(250)"
+                },
+                {
+                    "data": "form_id",
+                    "datatype": "int"
+                },
+                {
+                    "data": "id",
+                    "datatype": "int"
+                }
+            ]
+        }
+    },
+    "card_list": [
+        "users",
+        "content",
+        "menu",
+        "app_tables",
+        "app_fields",
+        "pages",
+        "forms",
+        "form_content"
+    ],
+    "form_structure": {
+        "rows": [
+            {
+                "cards": [
+                    {
+                        "tabs": [
+                            {
+                                "tab_header": "Home",
+                                "tab_content": "content1"
+                            },
+                            {
+                                "tab_header": "Profile",
+                                "tab_content": "content2"
+                            },
+                            {
+                                "tab_header": "Messages",
+                                "tab_content": "content3"
+                            },
+                            {
+                                "tab_header": "Settings",
+                                "tab_content": "content4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cards": []
+            },
+            {
+                "cards": [
+                    {
+                        "tabs": [
+                            {
+                                "tab_header": "Home",
+                                "tab_content": "content2_1"
+                            },
+                            {
+                                "tab_header": "Profile",
+                                "tab_content": "content2_2"
+                            },
+                            {
+                                "tab_header": "Messages",
+                                "tab_content": "content2_3"
+                            },
+                            {
+                                "tab_header": "Settings",
+                                "tab_content": "content2_4"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "cards": []
+            }
+        ]
+    }
+}
